@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **parihargaurav527@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15bJXzMCYd2Qy10Dr6nagnIdmjxKFs7ye/view?usp=drivesdk](https://drive.google.com/file/d/15bJXzMCYd2Qy10Dr6nagnIdmjxKFs7ye/view?usp=drivesdk)
-
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I loves to play Basketball 🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
