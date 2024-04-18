@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5616AQEWigAZFfUZ1w/profile-displaybackgroundimage-shrink_200_800/0/1648828520435?e=2147483647&v=beta&t=AzKXY8og20pzr_nsbQz7p90zBs5c_UxzxSM6q1eQm4A)](https://parihargaurav.io)
 <h1 align="center">Hi 👋, I'm Gaurav Parihar</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parihargaurav&label=Profile%20views&color=0e75b6&style=flat" alt="parihargaurav" /> </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/gauravis007" target="blank"><img src="https://img.shields.io/twitter/follow/gauravis007?logo=twitter&style=for-the-badge" alt="gauravis007" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Technology**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **MongoDB, Express, NodeJs ,ReactJs, NextJs, Material-UI,JavaScript, Tailwind CSS**
 
@@ -27,5 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parihargaurav&show_icons=true&locale=en&layout=compact" alt="parihargaurav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parihargaurav&show_icons=true&locale=en" alt="parihargaurav" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parihargaurav&" alt="parihargaurav" /></p>
 
 
